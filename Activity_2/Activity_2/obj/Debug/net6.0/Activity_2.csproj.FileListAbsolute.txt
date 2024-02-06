@@ -1,0 +1,15 @@
+D:\Roberts_AppsDev\Activity_2\Activity_2\bin\Debug\net6.0\Activity_2.exe
+D:\Roberts_AppsDev\Activity_2\Activity_2\bin\Debug\net6.0\Activity_2.deps.json
+D:\Roberts_AppsDev\Activity_2\Activity_2\bin\Debug\net6.0\Activity_2.runtimeconfig.json
+D:\Roberts_AppsDev\Activity_2\Activity_2\bin\Debug\net6.0\Activity_2.dll
+D:\Roberts_AppsDev\Activity_2\Activity_2\bin\Debug\net6.0\Activity_2.pdb
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\Activity_2.csproj.AssemblyReference.cache
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\Activity_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\Activity_2.AssemblyInfoInputs.cache
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\Activity_2.AssemblyInfo.cs
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\Activity_2.csproj.CoreCompileInputs.cache
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\Activity_2.dll
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\refint\Activity_2.dll
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\Activity_2.pdb
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\Activity_2.genruntimeconfig.cache
+D:\Roberts_AppsDev\Activity_2\Activity_2\obj\Debug\net6.0\ref\Activity_2.dll
