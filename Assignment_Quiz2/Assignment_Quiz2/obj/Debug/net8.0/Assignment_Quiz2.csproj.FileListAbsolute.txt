@@ -1,0 +1,15 @@
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\bin\Debug\net8.0\Assignment_Quiz2.exe
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\bin\Debug\net8.0\Assignment_Quiz2.deps.json
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\bin\Debug\net8.0\Assignment_Quiz2.runtimeconfig.json
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\bin\Debug\net8.0\Assignment_Quiz2.dll
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\bin\Debug\net8.0\Assignment_Quiz2.pdb
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\Assignment_Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\Assignment_Quiz2.AssemblyInfoInputs.cache
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\Assignment_Quiz2.AssemblyInfo.cs
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\Assignment_Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\Assignment_Quiz2.sourcelink.json
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\Assignment_Quiz2.dll
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\refint\Assignment_Quiz2.dll
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\Assignment_Quiz2.pdb
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\Assignment_Quiz2.genruntimeconfig.cache
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Assignment_Quiz2\Assignment_Quiz2\obj\Debug\net8.0\ref\Assignment_Quiz2.dll
