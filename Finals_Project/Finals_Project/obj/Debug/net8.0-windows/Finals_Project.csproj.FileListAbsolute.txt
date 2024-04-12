@@ -1,0 +1,17 @@
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\bin\Debug\net8.0-windows\Finals_Project.exe
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\bin\Debug\net8.0-windows\Finals_Project.deps.json
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\bin\Debug\net8.0-windows\Finals_Project.runtimeconfig.json
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\bin\Debug\net8.0-windows\Finals_Project.dll
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\bin\Debug\net8.0-windows\Finals_Project.pdb
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.Form_Account.resources
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.csproj.GenerateResource.cache
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.AssemblyInfoInputs.cache
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.AssemblyInfo.cs
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.sourcelink.json
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.dll
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\refint\Finals_Project.dll
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.pdb
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\Finals_Project.genruntimeconfig.cache
+C:\Users\Ronnie\Desktop\Roberts_AppsDev\Finals_Project\Finals_Project\obj\Debug\net8.0-windows\ref\Finals_Project.dll
